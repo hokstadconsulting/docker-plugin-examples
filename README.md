@@ -1,2 +1,3 @@
-# docker-plugin-examples
-Examples of how to write Docker plugins in Ruby (volume plugin example for now)
+
+# Demonstration of how to write Docker plugins in Ruby
+
